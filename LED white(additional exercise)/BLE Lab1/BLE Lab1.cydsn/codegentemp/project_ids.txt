@@ -1,0 +1,5 @@
+C:\Users\sunyi\Desktop\Lab1 codes--Blue LED\BLE Lab1\BLE Lab1.cydsn\BLE Lab1.cyprj|2599eeda-360e-4274-b09c-3e72cd7c20f1
+C:\9047software\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|f4e75f3c-8abc-4dfc-b321-807a37dc0dd2
+C:\9047software\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|3f1643f6-152a-4683-b28f-b06380747d0d
+C:\9047software\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b28df880-7db0-4e26-bf63-5c0ac69b698a
+C:\9047software\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|aca8e332-ef18-4a50-a3ab-1ebc80a999a7

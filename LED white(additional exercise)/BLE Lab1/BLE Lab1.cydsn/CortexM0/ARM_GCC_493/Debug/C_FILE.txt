@@ -1,0 +1,1 @@
+'C:\Users\sunyi\Desktop\Lab1 codes--Blue LED\BLE Lab1\BLE Lab1.cydsn\main.c' -o .o -T C_FILE -I 'C:\Users\sunyi\Desktop\Lab1 codes--Blue LED\BLE Lab1\BLE Lab1.cydsn' -I 'C:\Users\sunyi\Desktop\Lab1 codes--Blue LED\BLE Lab1\BLE Lab1.cydsn\Generated_Source\PSoC4' -f 'C:\Users\sunyi\Desktop\Lab1 codes--Blue LED\BLE Lab1\BLE Lab1.cydsn\CortexM0\ARM_GCC_493\Debug\.deps\C_FILE.d'
